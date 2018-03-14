@@ -10,18 +10,16 @@
 ***Подключение шрифтов***
 ---------------------------
 #### По ссылке:
-* ***Dosis vs Open Sans***
+* ***Dosis | Open Sans***
 
- ***<https://fonts.googleapis.com/css?family=Dosis:300,400|Open+Sans:300,400>***
+***<https://fonts.googleapis.com/css?family=Dosis:300,400|Open+Sans:300,400>***
  
 * ***Icons***
 
- ***<https://use.fontawesome.com/releases/v5.0.6/css/all.css>***
+***<https://use.fontawesome.com/releases/v5.0.6/css/all.css>***
 
 ***Компоненты bootstrap***
 ---------------------------
-<li>
-
 * ***Типографика Glyphicon***
 * ***Навигация (вкладки)***
 * ***Группы кнопок***
