@@ -136,7 +136,7 @@
 		opacity: 1 !important;
 	}
 }
-@media (min-width: 479px){
+@media (max-width: 479px){
 	#header .Thomas h1 {
 		letter-spacing: .7em;
 		padding-left: .7em;
